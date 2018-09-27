@@ -1,0 +1,8 @@
+
+	Model: data/hmms/N16__M1024_t3__a0.1/tektronix.hmm   className: 'tektronix'
+	N=16 M=1024 type: cascade-3
+	restriction: 1e-05
+	        #sequences: 30
+	        auto value: 0.1
+	      #refinements: 46
+	          Σ log(P): -9.824264e+03

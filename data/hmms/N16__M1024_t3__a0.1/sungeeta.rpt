@@ -1,0 +1,8 @@
+
+	Model: data/hmms/N16__M1024_t3__a0.1/sungeeta.hmm   className: 'sungeeta'
+	N=16 M=1024 type: cascade-3
+	restriction: 1e-05
+	        #sequences: 21
+	        auto value: 0.1
+	      #refinements: 17
+	          Σ log(P): -8.147715e+03

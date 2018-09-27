@@ -1,0 +1,8 @@
+
+	Model: data/hmms/N16__M32_t3__a0.1/71523.hmm   className: '71523'
+	N=16 M=32 type: cascade-3
+	restriction: 1e-05
+	        #sequences: 55
+	        auto value: 0.1
+	      #refinements: 26
+	          Σ log(P): -2.015457e+04

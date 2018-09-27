@@ -1,0 +1,8 @@
+
+	Model: data/hmms/N16__M2048_t3__a0.1/supernova.hmm   className: 'supernova'
+	N=16 M=2048 type: cascade-3
+	restriction: 1e-05
+	        #sequences: 36
+	        auto value: 0.1
+	      #refinements: 31
+	          Σ log(P): -1.908541e+04

@@ -1,0 +1,8 @@
+
+	Model: data/hmms/N16__M128_t3__a0.1/generation.hmm   className: 'generation'
+	N=16 M=128 type: cascade-3
+	restriction: 1e-05
+	        #sequences: 11
+	        auto value: 0.1
+	      #refinements: 11
+	          Σ log(P): -2.215600e+03

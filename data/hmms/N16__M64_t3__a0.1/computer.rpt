@@ -1,0 +1,8 @@
+
+	Model: data/hmms/N16__M64_t3__a0.1/computer.hmm   className: 'computer'
+	N=16 M=64 type: cascade-3
+	restriction: 1e-05
+	        #sequences: 18
+	        auto value: 0.1
+	      #refinements: 17
+	          Σ log(P): -2.911821e+03

@@ -1,0 +1,8 @@
+
+	Model: data/hmms/N16__M4_t3__a0.1/nebula.hmm   className: 'nebula'
+	N=16 M=4 type: cascade-3
+	restriction: 1e-05
+	        #sequences: 21
+	        auto value: 0.1
+	      #refinements: 23
+	          Σ log(P): -5.943839e+02

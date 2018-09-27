@@ -1,0 +1,8 @@
+
+	Model: data/hmms/N16__M16_t3__a0.1/abracadabra.hmm   className: 'abracadabra'
+	N=16 M=16 type: cascade-3
+	restriction: 1e-05
+	        #sequences: 44
+	        auto value: 0.1
+	      #refinements: 39
+	          Σ log(P): -7.127396e+03
